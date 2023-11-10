@@ -11,3 +11,6 @@ Mention that this is a project of the dynamic web running on Maven and Tomcat 9
 - CRUD with Hibernate and JPA
 - Realtime notification with WebSocket
 - Apply API of SendGrid, Gson, OUthen,... configuration in pom.xml
+
+----------
+Because of some changes in the front end, it isn't working normally on some components I will update them soon with a big update in technology (big data and machine learning).
